@@ -1,4 +1,4 @@
-I’m Abhijeet Beedikar
+I’m Abhijeet Beedikar.
 I work with back-end development for CS Projects. I'm into developing AI Models. 
 Currently learning machine learning and reinforcement learning.
 Aiming to become become an ML/DL Engineer/Developer.
